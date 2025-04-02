@@ -12,7 +12,7 @@ const users = [
     id: "2",
     name: "Jane Smith",
     age: 25,
-    isMarried: false,
+    isMarried: true,
   },
   {
     id: "3",
